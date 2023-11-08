@@ -60,6 +60,7 @@ Under this section you can copy your Discord Application ID.
 Under the bot section you can get your token for the bot. Click on "Reset Token" to view the token and reset it. Copy it and add it to the .env file as the "DISCORD_TOKEN".
 
 ![image](https://github.com/Winston-Services/EVM-Faucet-Bot/assets/29209354/cb870e42-3bd7-4f04-9127-755dc9f05297)
+
 Make sure to enable these two features, so that the bot can get user information and read the content they send.
 
 ## Set the Options
