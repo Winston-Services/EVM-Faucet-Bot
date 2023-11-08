@@ -48,12 +48,19 @@ We have included a few of the ABI's we find as standard in the following Reposit
 
 It's recommended that you use the ABI's that are for your assets if they are not already included in the repository. You can download them from the blockexplorer. While at the blockexplorer register to get your API keys, so that you can use Ethers Network Provider API's.
 
-Next you will want to go to Discord Developer Portal to create your bot's credentials. Here's what you will need to do.
 [Discord Developer Portal](https://discord.com/developers/applications)
+Next you will want to go to Discord Developer Portal to create your bot's credentials. Here's what you will need to do.
+
 ![image](https://github.com/Winston-Services/EVM-Faucet-Bot/assets/29209354/673c7ff6-95f1-42f3-aef3-3344896bd9fe)
+
 Under this section you can copy your Discord Application ID.
+
 ![image](https://github.com/Winston-Services/EVM-Faucet-Bot/assets/29209354/69c0407e-39f9-4407-a8d9-e59b2cd60d70)
+
 Under the bot section you can get your token for the bot. Click on "Reset Token" to view the token and reset it. Copy it and add it to the .env file as the "DISCORD_TOKEN".
+
+![image](https://github.com/Winston-Services/EVM-Faucet-Bot/assets/29209354/cb870e42-3bd7-4f04-9127-755dc9f05297)
+Make sure to enable these two features, so that the bot can get user information and read the content they send.
 
 ## Set the Options
 Next edit the `.env` file to update the following information.
