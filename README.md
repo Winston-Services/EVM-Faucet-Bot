@@ -33,6 +33,7 @@ Or Download the latest version of the bot from :
 Note : In this documentation we make a few assumptions. You may need to adjust your actual input for your OS version.
 
 ## Install the Dependencies
+You will need to have the latest version of nodejs installed to install this dependancy. You can download it from their website [NodeJS](https://nodejs.org/en/download)
 Next we need to install the Sqlite Database Dependencies. Sqlite is used to store the data that keeps track of user balances, transactions, and settings for the bot.
 
 Dependencies : 
