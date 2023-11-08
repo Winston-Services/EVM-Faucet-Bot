@@ -48,6 +48,8 @@ We have included a few of the ABI's we find as standard in the following Reposit
 It's recommended that you use the ABI's that are for your assets if they are not already included in the repository. You can download them from the blockexplorer. While at the blockexplorer register to get your API keys, so that you can use Ethers Network Provider API's.
 
 Next you will want to go to Discord Developer Portal to create your bot's credentials. Here's what you will need to do.
+[Discord Developer Portal](https://discord.com/developers/applications)
+![image](https://github.com/Winston-Services/EVM-Faucet-Bot/assets/29209354/673c7ff6-95f1-42f3-aef3-3344896bd9fe)
 
 ## Set the Options
 Next edit the `.env` file to update the following information.
